@@ -10,3 +10,9 @@ html{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.tab{
+  background: url('/images/kids.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
